@@ -1,3 +1,5 @@
+See also https://gitlab.com/aescling.
+
 Hi. I like writing software that helps me understand and be able to recreate
 infrastructure; I like to publish the results in hopes that it might help others
 with the same. <!-- i would like to think myself something of a punk --> I
